@@ -9,6 +9,8 @@
 // @grant        none
 // @require https://code.jquery.com/jquery-3.2.1.min.js
 // @icon http://www.iconarchive.com/download/i85618/graphicloads/100-flat/share-2.ico
+// @downloadURL https://github.com/pedropamn/Share-Anywhere/raw/master/Share%20Everywhere.user.js
+
 
 
 // ==/UserScript==
